@@ -68,18 +68,18 @@ jekyll-archives:
   enabled:
     - categories
 
-plugins:
-  - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
+ plugins:
+#  - jekyll-archives
+#  - jekyll-sitemap
+#  - jekyll-seo-tag
+#  - jekyll-feed
   - jekyll-paginate
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - README.md
+#  - LICENCE
 
 # -----------
 # CloudCannon
