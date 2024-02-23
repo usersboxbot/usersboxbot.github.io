@@ -9,15 +9,15 @@
 #disqus_shortname:
 
 # 
-logo: /siteicon.png
-description: Usersbox
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Usersbox Template
-  links:
+# logo: /siteicon.png
+# description: Usersbox
+# author:
+#   name:
+#   email:
+#   twitter: # twitter username without the @ symbol
+# social:
+#   name: Usersbox Template
+#   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
