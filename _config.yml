@@ -10,7 +10,7 @@ disqus_shortname:
 
 # 
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Usersbox
 author:
   name:
   email:
@@ -75,7 +75,7 @@ jekyll-archives:
 #  - jekyll-feed
   - jekyll-paginate
 
-#exclude:
+# exclude:
 #  - Gemfile
 #  - Gemfile.lock
 #  - README.md
