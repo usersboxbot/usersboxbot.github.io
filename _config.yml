@@ -23,11 +23,11 @@
 # -----
 # Build
 
-timezone: Etc/UTC
+#timezone: Etc/UTC
 
-collections:
-  staff_members:
-    _hide_content: true
+#collections:
+#  staff_members:
+#    _hide_content: true
 
 paginate: 10
 paginate_path: "/blog/:num/"
