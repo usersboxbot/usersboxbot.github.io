@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://usersbox.wiki/sitemap.xml
+Sitemap: https://usersbox.co/sitemap.xml
